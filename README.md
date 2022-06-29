@@ -1,0 +1,1 @@
+# norske-bug-bounty-program
