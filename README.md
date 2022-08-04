@@ -7,7 +7,7 @@
 |[Sparebank 1](https://sparebank1.no/)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|💰|Nov. 2021|[kode24](https://www.kode24.no/artikkel/slik-blir-du-dusorjeger-for-sparebank-1/76160552)||
 |[Visma](https://visma.no)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|💰|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
 |[Visma](https://visma.no)|[Intigriti](https://intigriti.com)|Åpent|💰|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
-|[Visma](https://visma.no)|[Intigriti](https://intigriti.com)|Vulnerability Disclosure Program|-|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
+|[Visma](https://visma.no)|[Intigriti](https://intigriti.com)|Vulnerability Disclosure Program|👕|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
 
 Her er en liste over kjente norske dusørjeger-program. Gi gjerne en lyd om du vet om et program som ikke er på listen.
 
