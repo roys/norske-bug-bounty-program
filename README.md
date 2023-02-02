@@ -11,6 +11,7 @@
 |[Visma](https://visma.no)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|💰|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
 |[Visma](https://visma.no)|[Intigriti](https://intigriti.com)|Åpent|💰|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
 |[Visma](https://visma.no)|[Intigriti](https://intigriti.com)|Vulnerability Disclosure Program|👕|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
+|🤫|[Intigriti](https://intigriti.com)|Privat|💰|Jan. 2023|-|
 
 Her er en liste over kjente norske dusørjeger-program. Gi gjerne en lyd om du vet om et program som ikke er på listen.
 
