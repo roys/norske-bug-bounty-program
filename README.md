@@ -5,6 +5,7 @@
 |[Jobreg](https://jobreg.no)|-|[Responsible Disclosure Program](https://www.jobreg.no/security.php)|<span title="Hall of Fame">🏆</span>|?|-
 |[Kahoot](https://kahoot.com)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|?|[Intigriti](https://intigriti.com/companies)|
 |[Kahoot](https://kahoot.com) - [Motimate](https://motimateapp.com)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|?|[Facebook](https://business.facebook.com/motimateapp/photos/a.1702293843419477/3049907031991478/)|
+|[Morgenbladet](https://morgenbladet.no)|-|[Åpent](https://www.morgenbladet.no/kundeservice/)|<span title="Penger">💰</span>|?|-|
 |[Oda](https://oda.com)|[Intigriti](https://intigriti.com)|[Åpent](https://app.intigriti.com/researcher/programs/oda/oda)|<span title="Penger">💰</span>|Apr. 2022|[Medium](https://medium.com/oda-product-tech/oda-is-launching-our-bug-bounty-program-8e356d5ac0d3)||
 |[Schibsted](https://schibsted.com)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|Sept. 2022|-|
 |[Schibsted](https://schibsted.com) - [FINN](https://finn.no)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|Sept. 2019|[Medium](https://medium.com/finn-no/one-year-with-a-private-bug-bounty-program-f928a57ad026)||
