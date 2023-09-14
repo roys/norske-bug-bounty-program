@@ -2,6 +2,7 @@
 
 |Firma|Plattform|Type/program-lenke|Dusør|Lansert|Kilde|
 |---|---|---|---|----|---|
+|[Horde](https://horde.no)|-|[Responsible Disclosure Program](https://horde.no/responsible-disclosure/)|<span title="Hall of Fame">🏆</span>|?|-
 |[Jobreg](https://jobreg.no)|-|[Responsible Disclosure Program](https://www.jobreg.no/security.php)|<span title="Hall of Fame">🏆</span>|?|-
 |[Kahoot](https://kahoot.com)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|?|[Intigriti](https://intigriti.com/companies)|
 |[Kahoot](https://kahoot.com) - [Motimate](https://motimateapp.com)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|?|[Facebook](https://business.facebook.com/motimateapp/photos/a.1702293843419477/3049907031991478/)|
