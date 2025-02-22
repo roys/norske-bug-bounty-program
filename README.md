@@ -20,6 +20,7 @@
 |[Visma](https://visma.no)|[Intigriti](https://intigriti.com)|[Vulnerability Disclosure Program](https://app.intigriti.com/researcher/programs/visma/VismaResponsibleDisclosure)|<span title="Swag">👕</span> <span title="Hall of Fame">🏆</span>|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
 |🤫|[Intigriti](https://intigriti.com)|Privat|<span title="Penger">💰</span>|Jan. 2023|-|
 |🤫|[Intigriti](https://intigriti.com)|Privat|<span title="Penger">💰</span>|Des. 2023|-|
+|🤫|[Intigriti](https://intigriti.com)|Privat|<span title="Penger">💰</span>|Feb. 2025|-|
 
 Her er en liste over kjente norske dusørjeger-program. Gi gjerne en lyd om du vet om et program som ikke er på listen.
 
