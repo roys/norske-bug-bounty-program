@@ -3,6 +3,7 @@
 |Firma|Plattform|Type/program-lenke|Dusør|Lansert|Kilde|
 |---|---|---|---|----|---|
 |[Ardoq](https://ardoq.com)|[HackerOne](https://hackerone.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|<= 2022|[Ardoq](https://www.ardoq.com/blog/bug-bounty-hackerone)|
+|[Firi](https://firi.com)|[HackerOne](https://hackerone.com)|[Privat (ikke hemmelig)](https://hackerone.com/firi_as)|<span title="Penger">💰</span>|Oct. 2024|[Firi](https://firi.com/.well-known/security.txt)|
 |[Horde](https://horde.no)|-|[Responsible Disclosure Program](https://horde.no/responsible-disclosure/)|<span title="Hall of Fame">🏆</span>|?|-
 |[Jobreg](https://jobreg.no)|-|[Responsible Disclosure Program](https://www.jobreg.no/security.php)|<span title="Hall of Fame">🏆</span>|?|-
 |[Kahoot](https://kahoot.com)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|?|[Intigriti](https://intigriti.com/companies)|
