@@ -51,4 +51,4 @@ Dusør: 💰 penger · 🏆 hall of fame · 👕 swag. ⚠️ = usikker status �
 
 Vil du legge til eller endre noe? Rediger [`programs.yaml`](programs.yaml) – tabellene over genereres automatisk fra den filen.
 
-Vil du lese mer om norske dusørjegere har [kode24](https://kode24.no) snakket med noen av dem i [artikkelserien _dusørjegerne_](https://www.kode24.no/emne/dus%C3%B8rjegerne).
+Vil du lese mer om norske dusørjegere har [kode24](https://kode24.no) snakket med noen av dem i [artikkelserien _dusørjegerne_](https://www.kode24.no/tag/dus%C3%B8rjegerne).
