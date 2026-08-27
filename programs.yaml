@@ -103,7 +103,7 @@
   platform: none
   visibility: public
   type: bug-bounty
-  program_url: https://www.morgenbladet.no/kundeservice/
+  program_url: https://www.morgenbladet.no/kontakt-oss
   rewards: [money]
 
 - name: NBX

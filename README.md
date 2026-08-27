@@ -9,7 +9,7 @@ Liste over kjente norske bug bounty- og responsible disclosure-program. Gi gjern
 
 |Firma|Plattform / program|Dusør|security.txt|Lansert|
 |---|---|---|---|---|
-|[Morgenbladet](https://morgenbladet.no)|[Eget program](https://www.morgenbladet.no/kundeservice/)|<span title="Penger">💰</span>|-|?|
+|[Morgenbladet](https://morgenbladet.no)|[Eget program](https://www.morgenbladet.no/kontakt-oss)|<span title="Penger">💰</span>|-|?|
 |[Visma](https://visma.no)|[Intigriti](https://app.intigriti.com/researcher/programs/visma/visma)|<span title="Penger">💰</span>|-|?|
 
 ### 🔒 Private bug bounty-program
