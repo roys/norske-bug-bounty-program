@@ -223,8 +223,8 @@
   visibility: private-known
   type: bug-bounty
   rewards: [money]
-  source: https://www.visma.com/trust-centre/responsible-disclosure
-  source_name: Visma
+  source: https://web.archive.org/web/20221203065247/https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/
+  source_name: Visma via Wayback Machine
 
 - name: Visma
   url: https://visma.no
