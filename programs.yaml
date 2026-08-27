@@ -11,7 +11,7 @@
 #   unit        Valgfritt. Datterselskap/merkevare, f.eks. FINN.no under Vend.
 #               Optional. Subsidiary/brand, e.g. FINN.no under Vend.
 #   unit_url    Valgfritt. / Optional.
-#   platform    hackerone | intigriti | bugcrowd | yeswehack | synack | none
+#   platform    hackerone | intigriti | bugcrowd | yeswehack | synack | openbugbounty | none
 #               none = eget program uten plattform. Mangler en plattform? Legg den til i scripts/render.py.
 #               none = self-hosted, no platform. Missing a platform? Add it to scripts/render.py.
 #   visibility  public | private-known | undisclosed
@@ -108,12 +108,14 @@
 
 - name: NBX
   url: https://nbx.com
-  platform: none
+  platform: openbugbounty
   visibility: public
   type: bug-bounty
-  program_url: https://nbx.com/en/security
+  program_url: https://openbugbounty.org/bugbounty/nbxsec/
   rewards: [money, hall-of-fame]
   security_txt: https://app.nbx.com/.well-known/security.txt
+  source: https://nbx.com/en/security
+  source_name: NBX
 
 - name: NRK
   url: https://nrk.no

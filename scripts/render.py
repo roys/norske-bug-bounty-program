@@ -23,6 +23,7 @@ PLATFORMS = {
     "bugcrowd": ("Bugcrowd", "https://bugcrowd.com"),
     "yeswehack": ("YesWeHack", "https://yeswehack.com"),
     "synack": ("Synack", "https://synack.com"),
+    "openbugbounty": ("Open Bug Bounty", "https://openbugbounty.org"),
     "none": None,
 }
 VISIBILITY = ("public", "private-known", "undisclosed")

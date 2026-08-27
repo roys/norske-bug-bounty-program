@@ -10,7 +10,7 @@ Liste over kjente norske bug bounty- og responsible disclosure-program. Gi gjern
 |Firma|Plattform / program|Dusør|security.txt|Lansert|
 |---|---|---|---|---|
 |[Morgenbladet](https://morgenbladet.no)|[Eget program](https://www.morgenbladet.no/kontakt-oss)|<span title="Penger">💰</span>|-|?|
-|[NBX](https://nbx.com)|[Eget program](https://nbx.com/en/security)|<span title="Penger">💰</span> <span title="Hall of Fame">🏆</span>|[security.txt](https://app.nbx.com/.well-known/security.txt)|?|
+|[NBX](https://nbx.com)|[Open Bug Bounty](https://openbugbounty.org/bugbounty/nbxsec/)|<span title="Penger">💰</span> <span title="Hall of Fame">🏆</span>|[security.txt](https://app.nbx.com/.well-known/security.txt)|?|
 |[Visma](https://visma.no)|[Intigriti](https://app.intigriti.com/researcher/programs/visma/visma)|<span title="Penger">💰</span>|-|?|
 
 ### 🔒 Private bug bounty-program
