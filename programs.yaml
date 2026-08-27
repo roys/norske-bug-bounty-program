@@ -1,0 +1,265 @@
+# Kilde for tabellen i README.md. Ikke rediger tabellen direkte – den
+# genereres automatisk fra denne fila. Se CONTRIBUTING.md.
+#
+# Source for the table in README.md. Do not edit the table directly – it is
+# generated from this file. See CONTRIBUTING.md.
+#
+# Felt / fields:
+#   name        Firmanavn. Utelat for hemmelige program.
+#               Company name. Omit for undisclosed programs.
+#   url         Firmaets nettside. / Company website.
+#   unit        Valgfritt. Datterselskap/merkevare, f.eks. FINN.no under Vend.
+#               Optional. Subsidiary/brand, e.g. FINN.no under Vend.
+#   unit_url    Valgfritt. / Optional.
+#   platform    hackerone | intigriti | bugcrowd | yeswehack | synack | none
+#               none = eget program uten plattform. Mangler en plattform? Legg den til i scripts/render.py.
+#               none = self-hosted, no platform. Missing a platform? Add it to scripts/render.py.
+#   visibility  public | private-known | undisclosed
+#               private-known = privat, men eksistensen er offentlig kjent
+#               private-known = private, but publicly known to exist
+#   type        bug-bounty | rdp | vdp
+#   program_url Valgfritt. Lenke til programmet. / Optional. Link to the program.
+#   rewards     Liste av / list of: money | hall-of-fame | swag. Tom liste = ingen dusør. / Empty list = no reward.
+#   launched    Valgfritt. ÅÅÅÅ eller ÅÅÅÅ-MM, eller "<= ÅÅÅÅ" hvis bare en øvre grense er kjent.
+#               Optional. YYYY or YYYY-MM, or "<= YYYY" if only an upper bound is known.
+#   source      Valgfritt. Lenke som dokumenterer programmet. / Optional. Link documenting the program.
+#   source_name Valgfritt. Visningsnavn for kilden. / Optional. Display name for the source.
+#   security_txt Valgfritt. Lenke til selskapets security.txt. / Optional. Link to the company's security.txt.
+#   status      Valgfritt. active (standard) | unknown | closed
+#               Optional. active (default) | unknown | closed
+
+- name: Ardoq
+  url: https://ardoq.com
+  platform: hackerone
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  launched: "<= 2022"
+  source: https://www.ardoq.com/blog/bug-bounty-hackerone
+  source_name: Ardoq
+
+- name: Firi
+  url: https://firi.com
+  platform: hackerone
+  visibility: private-known
+  type: bug-bounty
+  program_url: https://hackerone.com/firi_as
+  rewards: [money]
+  security_txt: https://firi.com/.well-known/security.txt
+  launched: 2024-10
+  source: https://firi.com/.well-known/security.txt
+  source_name: Firi
+
+- name: Horde
+  url: https://horde.no
+  platform: none
+  visibility: public
+  type: rdp
+  program_url: https://horde.no/responsible-disclosure/
+  rewards: [hall-of-fame]
+  security_txt: https://horde.no/.well-known/security.txt
+
+- name: Jobreg
+  url: https://jobreg.no
+  platform: none
+  visibility: public
+  type: rdp
+  program_url: https://www.jobreg.no/security.php
+  rewards: [hall-of-fame]
+
+- name: Kahoot
+  url: https://kahoot.com
+  platform: intigriti
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  security_txt: https://kahoot.com/.well-known/security.txt
+  source: https://intigriti.com/companies
+  source_name: Intigriti
+
+- name: Kahoot
+  url: https://kahoot.com
+  platform: none
+  visibility: public
+  type: vdp
+  program_url: https://kahoot.com/disclosure-policy.txt
+  rewards: []
+  security_txt: https://kahoot.com/.well-known/security.txt
+
+- name: Kahoot
+  url: https://kahoot.com
+  unit: Motimate
+  unit_url: https://motimateapp.com
+  platform: intigriti
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  security_txt: https://motimateapp.com/.well-known/security.txt
+  source: https://business.facebook.com/motimateapp/photos/a.1702293843419477/3049907031991478/
+  source_name: Facebook
+
+- name: Morgenbladet
+  url: https://morgenbladet.no
+  platform: none
+  visibility: public
+  type: bug-bounty
+  program_url: https://www.morgenbladet.no/kundeservice/
+  rewards: [money]
+
+- name: NBX
+  url: https://nbx.com
+  platform: none
+  visibility: public
+  type: rdp
+  program_url: https://nbx.com/en/security
+  rewards: [money]
+
+- name: NRK
+  url: https://nrk.no
+  platform: none
+  visibility: public
+  type: rdp
+  program_url: https://info.nrk.no/responsible-disclosure-policy/
+  rewards: [hall-of-fame]
+  security_txt: https://nrk.no/.well-known/security.txt
+
+- name: Oda
+  url: https://oda.com
+  platform: yeswehack
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  security_txt: https://oda.com/.well-known/security.txt
+  launched: 2022-04
+  source: https://oda.com/.well-known/security.txt
+  source_name: security.txt
+
+- name: Schibsted
+  url: https://schibsted.com
+  platform: bugcrowd
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  security_txt: https://schibsted.com/.well-known/security.txt
+  source: https://vg.no/.well-known/security.txt
+  source_name: security.txt
+
+- name: Signicat
+  url: https://www.signicat.com
+  platform: intigriti
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  security_txt: https://www.signicat.com/.well-known/security.txt
+  source: https://app.intigriti.com/programs/signicat/signicatresponsibledisclosure/detail
+  source_name: Intigriti
+
+- name: Signicat
+  url: https://www.signicat.com
+  platform: intigriti
+  visibility: public
+  type: vdp
+  program_url: https://app.intigriti.com/programs/signicat/signicatresponsibledisclosure/detail
+  rewards: [hall-of-fame]
+  security_txt: https://www.signicat.com/.well-known/security.txt
+
+- name: Sparebank 1
+  url: https://sparebank1.no/
+  platform: intigriti
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  security_txt: https://www.sparebank1.no/.well-known/security.txt
+  launched: 2021-11
+  source: https://www.kode24.no/artikkel/slik-blir-du-dusorjeger-for-sparebank-1/76160552
+  source_name: kode24
+
+- name: Storebrand
+  url: https://www.storebrand.no
+  platform: intigriti
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  security_txt: https://www.storebrand.no/.well-known/security.txt
+  launched: 2025-02
+  source: https://www.bankshift.no/teknologi/storebrand-apne-om-angrep-i-egne-systemer-noen-hadde-tatt-over-koden-som-andre-hadde-laget/457471
+  source_name: BankShift
+
+- name: Storebrand
+  url: https://www.storebrand.no
+  platform: intigriti
+  visibility: public
+  type: vdp
+  program_url: https://app.intigriti.com/programs/spp-storebrand/storebrand-rd/detail
+  rewards: []
+  security_txt: https://www.storebrand.no/.well-known/security.txt
+  launched: 2026-01
+
+- name: Vend
+  url: https://vend.com
+  unit: FINN.no
+  unit_url: https://finn.no
+  platform: hackerone
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  security_txt: https://finn.no/.well-known/security.txt
+  launched: 2019-09
+  source: https://medium.com/finn-no/one-year-with-a-private-bug-bounty-program-f928a57ad026
+  source_name: Medium
+
+- name: Vipps
+  url: https://vipps.no
+  platform: none
+  visibility: public
+  type: rdp
+  program_url: https://vipps.no/sikkerhet/responsible-disclosure-policy/
+  rewards: [hall-of-fame]
+  security_txt: https://vipps.no/.well-known/security.txt
+
+- name: Visma
+  url: https://visma.no
+  platform: intigriti
+  visibility: private-known
+  type: bug-bounty
+  rewards: [money]
+  source: https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/
+  source_name: Visma
+
+- name: Visma
+  url: https://visma.no
+  platform: intigriti
+  visibility: public
+  type: bug-bounty
+  program_url: https://app.intigriti.com/researcher/programs/visma/visma
+  rewards: [money]
+  source: https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/
+  source_name: Visma
+
+- name: Visma
+  url: https://visma.no
+  platform: intigriti
+  visibility: public
+  type: vdp
+  program_url: https://app.intigriti.com/researcher/programs/visma/VismaResponsibleDisclosure
+  rewards: [swag, hall-of-fame]
+  source: https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/
+  source_name: Visma
+
+- platform: intigriti
+  visibility: undisclosed
+  type: bug-bounty
+  rewards: [money]
+  launched: 2023-01
+
+- platform: intigriti
+  visibility: undisclosed
+  type: bug-bounty
+  rewards: [money]
+  launched: 2023-12
+
+- platform: intigriti
+  visibility: undisclosed
+  type: bug-bounty
+  rewards: [money]
+  launched: 2024-01
