@@ -110,9 +110,10 @@
   url: https://nbx.com
   platform: none
   visibility: public
-  type: rdp
+  type: bug-bounty
   program_url: https://nbx.com/en/security
-  rewards: [money]
+  rewards: [money, hall-of-fame]
+  security_txt: https://app.nbx.com/.well-known/security.txt
 
 - name: NRK
   url: https://nrk.no

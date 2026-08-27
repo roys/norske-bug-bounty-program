@@ -3,13 +3,14 @@
 Liste over kjente norske bug bounty- og responsible disclosure-program. Gi gjerne en lyd om du vet om et program som ikke er på listen – se [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <!-- programs:start -->
-**25 aktive program · 2 offentlige bug bounty-program med pengedusør · sist oppdatert 2026-08-27**
+**25 aktive program · 3 offentlige bug bounty-program med pengedusør · sist oppdatert 2026-08-27**
 
 ### 💰 Offentlige bug bounty-program
 
 |Firma|Plattform / program|Dusør|security.txt|Lansert|
 |---|---|---|---|---|
 |[Morgenbladet](https://morgenbladet.no)|[Eget program](https://www.morgenbladet.no/kontakt-oss)|<span title="Penger">💰</span>|-|?|
+|[NBX](https://nbx.com)|[Eget program](https://nbx.com/en/security)|<span title="Penger">💰</span> <span title="Hall of Fame">🏆</span>|[security.txt](https://app.nbx.com/.well-known/security.txt)|?|
 |[Visma](https://visma.no)|[Intigriti](https://app.intigriti.com/researcher/programs/visma/visma)|<span title="Penger">💰</span>|-|?|
 
 ### 🔒 Private bug bounty-program
@@ -39,7 +40,6 @@ Private program krever invitasjon fra plattformen eller selskapet, men det er of
 |[Horde](https://horde.no)|[Eget program](https://horde.no/responsible-disclosure/)|<span title="Hall of Fame">🏆</span>|[security.txt](https://horde.no/.well-known/security.txt)|?|
 |[Jobreg](https://jobreg.no)|[Eget program](https://www.jobreg.no/security.php)|<span title="Hall of Fame">🏆</span>|-|?|
 |[Kahoot](https://kahoot.com)|[Eget program](https://kahoot.com/disclosure-policy.txt)|-|[security.txt](https://kahoot.com/.well-known/security.txt)|?|
-|[NBX](https://nbx.com)|[Eget program](https://nbx.com/en/security)|<span title="Penger">💰</span>|-|?|
 |[NRK](https://nrk.no)|[Eget program](https://info.nrk.no/responsible-disclosure-policy/)|<span title="Hall of Fame">🏆</span>|[security.txt](https://nrk.no/.well-known/security.txt)|?|
 |[Signicat](https://www.signicat.com)|[Intigriti](https://app.intigriti.com/programs/signicat/signicatresponsibledisclosure/detail)|<span title="Hall of Fame">🏆</span>|[security.txt](https://www.signicat.com/.well-known/security.txt)|?|
 |[Storebrand](https://www.storebrand.no)|[Intigriti](https://app.intigriti.com/programs/spp-storebrand/storebrand-rd/detail)|-|[security.txt](https://www.storebrand.no/.well-known/security.txt)|Jan. 2026|
