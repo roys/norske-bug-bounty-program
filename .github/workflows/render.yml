@@ -1,0 +1,32 @@
+name: Render README
+
+on:
+  push:
+    branches: [main]
+    paths: [programs.yaml, scripts/render.py, .github/workflows/render.yml]
+  pull_request:
+    paths: [programs.yaml, scripts/render.py, .github/workflows/render.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: pip install pyyaml
+      - name: Validate
+        if: github.event_name == 'pull_request'
+        run: python3 scripts/render.py --validate
+      - name: Render and commit
+        if: github.event_name == 'push'
+        run: |
+          python3 scripts/render.py
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add README.md
+          git diff --cached --quiet || (git commit -m "Render README" && git push)
