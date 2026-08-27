@@ -3,7 +3,7 @@
 Liste over kjente norske bug bounty- og responsible disclosure-program. Gi gjerne en lyd om du vet om et program som ikke er på listen – se [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <!-- programs:start -->
-**25 aktive program · 2 offentlige bug bounty-program med pengedusør**
+**25 aktive program · 2 offentlige bug bounty-program med pengedusør · sist oppdatert 2026-08-27**
 
 ### 💰 Offentlige bug bounty-program
 
