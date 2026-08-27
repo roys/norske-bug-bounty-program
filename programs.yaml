@@ -223,7 +223,7 @@
   visibility: private-known
   type: bug-bounty
   rewards: [money]
-  source: https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/
+  source: https://www.visma.com/trust-centre/responsible-disclosure
   source_name: Visma
 
 - name: Visma
@@ -233,7 +233,7 @@
   type: bug-bounty
   program_url: https://app.intigriti.com/researcher/programs/visma/visma
   rewards: [money]
-  source: https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/
+  source: https://www.visma.com/trust-centre/responsible-disclosure
   source_name: Visma
 
 - name: Visma
@@ -243,7 +243,7 @@
   type: vdp
   program_url: https://app.intigriti.com/researcher/programs/visma/VismaResponsibleDisclosure
   rewards: [swag, hall-of-fame]
-  source: https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/
+  source: https://www.visma.com/trust-centre/responsible-disclosure
   source_name: Visma
 
 - platform: intigriti

@@ -28,7 +28,7 @@ Private program krever invitasjon fra plattformen eller selskapet, men det er of
 |[Sparebank 1](https://sparebank1.no/)|Intigriti|<span title="Penger">💰</span>|[security.txt](https://www.sparebank1.no/.well-known/security.txt)|Nov. 2021|[kode24](https://www.kode24.no/artikkel/slik-blir-du-dusorjeger-for-sparebank-1/76160552)|
 |[Storebrand](https://www.storebrand.no)|Intigriti|<span title="Penger">💰</span>|[security.txt](https://www.storebrand.no/.well-known/security.txt)|Feb. 2025|[BankShift](https://www.bankshift.no/teknologi/storebrand-apne-om-angrep-i-egne-systemer-noen-hadde-tatt-over-koden-som-andre-hadde-laget/457471)|
 |[Vend](https://vend.com) - [FINN.no](https://finn.no)|HackerOne|<span title="Penger">💰</span>|[security.txt](https://finn.no/.well-known/security.txt)|Sep. 2019|[Medium](https://medium.com/finn-no/one-year-with-a-private-bug-bounty-program-f928a57ad026)|
-|[Visma](https://visma.no)|Intigriti|<span title="Penger">💰</span>|-|?|[Visma](https://www.visma.com/trust-centre/security/vasp-vcdm/operations/bug-bounty-and-responsible-disclosure/)|
+|[Visma](https://visma.no)|Intigriti|<span title="Penger">💰</span>|-|?|[Visma](https://www.visma.com/trust-centre/responsible-disclosure)|
 
 **I tillegg kjenner man til minst 3 norske private programmer hvor selskapet ikke kan oppgis.**
 
