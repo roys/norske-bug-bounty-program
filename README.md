@@ -49,6 +49,6 @@ Private program krever invitasjon fra plattformen eller selskapet, men det er of
 Dusør: 💰 penger · 🏆 hall of fame · 👕 swag. ⚠️ = usikker status · 🔴 = stengt.
 <!-- programs:end -->
 
-Vil du legge til eller endre noe? Rediger [`programs.yaml`](programs.yaml) – tabellene over genereres automatisk fra den fila.
+Vil du legge til eller endre noe? Rediger [`programs.yaml`](programs.yaml) – tabellene over genereres automatisk fra den filen.
 
 Vil du lese mer om norske dusørjegere har [kode24](https://kode24.no) snakket med noen av dem i [artikkelserien _dusørjegerne_](https://www.kode24.no/emne/dus%C3%B8rjegerne).
