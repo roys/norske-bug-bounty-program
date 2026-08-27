@@ -209,7 +209,7 @@ def render(programs):
     for title, intro, match in SECTIONS:
         rows = [p for p in programs if match(p)]
         if rows:
-            table = render_table(rows, with_source=match is SECTIONS[1][2])
+            table = render_table(rows, with_source=any("source" in p for p in rows))
             parts.append(f"### {title}\n\n" + (f"{intro}\n\n" if intro else "") + table)
         if match is SECTIONS[1][2] and undisclosed:
             parts.append(undisclosed_note(undisclosed))
